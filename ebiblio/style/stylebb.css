@@ -1,6 +1,6 @@
 body
 {
-    background-color:              #99653C;
+    background-color:              #D48C53;
     font-family:      Cormorant Garamond, serif;
 	margin: 0 auto;
 /*
@@ -39,7 +39,8 @@ tr{
 #moi{
 	float: left;
 	width: 320px;
-	background-color: #99653C;
+	background-color: #D48C53;
+  color: #0F1594;
 }
 
 /* MAMETRAKA AMIN'HAVIA MAHARITRA*/
