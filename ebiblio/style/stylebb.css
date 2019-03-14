@@ -83,7 +83,7 @@ nav ul {
   margin: 0px;
   list-style-type: none;
   /*background-color: #000000; */
-  background-color: #1B95E0;
+  background-color: #0F1594;
 }
 
 nav li {
@@ -92,14 +92,14 @@ nav li {
   height: 30px;
   margin: 0px;
   padding: 3px;
-  /*border-right: 01px solid #CCCCCC;*/
+  border-right: 01px solid #D48C53;
   text-align: center;
   line-height: 30px;
 }
 
 nav li a{
   text-decoration: none;
-  color: #FFFFFF;
+  color: #D48C53;
 }
 
 nav li :hover{
