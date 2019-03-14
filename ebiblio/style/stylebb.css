@@ -1,7 +1,7 @@
 body
 {
     background-color:                   lightgrey;
-    font-family:      TradeGothic, sans-serif;
+    font-family:      Cormorant Garamond, serif;
 	margin: 0 auto;
 /*
     margin-left:                       40px;
@@ -17,6 +17,9 @@ body
 	*/
 }
 
+body .page{
+  background-color:  lightgrey#993208;
+}
 
 .sisiny {
 	border: 1px solid #1B95E0;
@@ -26,7 +29,7 @@ body
 td{
   border: 1px solid;
   width: 70%;
-  
+
 }
 tr{
   border: 1px solid;
