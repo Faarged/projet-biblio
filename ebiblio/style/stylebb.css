@@ -1,6 +1,6 @@
 body
 {
-    background-color:                  lightgrey;
+    background-color:              #99653C;
     font-family:      Cormorant Garamond, serif;
 	margin: 0 auto;
 /*
@@ -18,7 +18,7 @@ body
 }
 
 body .page{
-  background-color:  lightgrey#993208;
+  background-color:  #99653C;
 }
 
 .sisiny {
@@ -39,7 +39,7 @@ tr{
 #moi{
 	float: left;
 	width: 320px;
-	background-color: lightgrey;
+	background-color: #99653C;
 }
 
 /* MAMETRAKA AMIN'HAVIA MAHARITRA*/
