@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8"/>
-	<title>E-Bibliothèque - Location</title>
+	<title>E-Bibliothèque - Mentions légales</title>
 	<link href="style/stylebb.css" rel="stylesheet"/>
 
 </head>
@@ -28,15 +28,13 @@
 	</nav>
 	<div class="sisiny">
 		<div id="havia">
-			<p>GAUCHE</p>
-
-		</div>
-		<div id="havanana">
-			<p>DROITE</p>
+			Contenu mentions légales
 
 		</div>
 	</div>
 
-
+	<footer>
+		<?php include('footer.php'); ?>
+	</footer>
 </body>
 </html>
