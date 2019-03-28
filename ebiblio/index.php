@@ -9,7 +9,7 @@
 
 <body>
 	<div id=moi>
-	<br><h1>E-Bibliothèque</h1>
+	<br><h1>E-Bibliothèque bookiner</h1>
 
 	</div>
 	<div align="right">
